@@ -94,8 +94,8 @@ Build the KVL and KCL circuits in Proteus using the same resistor values and sup
 
 | S. No. | Supply voltage Vs (V) | Total current It (A) | Branch current I1 (A) | Branch current I2 (A) | Branch current I3 (A) | I1 + I2 + I3 (A) |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Theoritical |10 | 4.74|5.26 | 5.26| 10| |
-| Practical |20 |9.47 | 10.53| 10.53|20 | |
+| Theoritical |10 | 0.1579|0.1579 | 0.1053| 0.0526|0.1579 |
+| Practical |20 |0.3158 | 0.3158| 0.2105|0.1053 |0.3158 |
 
 ## CALCULATIONS
 
