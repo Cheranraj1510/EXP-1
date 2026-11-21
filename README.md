@@ -72,13 +72,13 @@ Build the KVL and KCL circuits in Proteus using the same resistor values and sup
 
 ### A. KVL simulation
 
-*[ Paste the Proteus KVL simulation screenshot here ]*
+<img width="1085" height="574" alt="Screenshot 2026-11-21 134018" src="https://github.com/user-attachments/assets/88b7e113-ccd4-4815-b86b-914631e9f1b5" />
 
 **Figure 3:** Proteus simulation of KVL circuit
 
 ### B. KCL simulation
 
-*[ Paste the Proteus KCL simulation screenshot here ]*
+<img width="1600" height="900" alt="90" src="https://github.com/user-attachments/assets/9f007a89-cec6-49b8-a47d-07dfee81f147" />
 
 **Figure 4:** Proteus simulation of KCL circuit
 
