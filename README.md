@@ -1,8 +1,8 @@
 ## EXPERIMENT NO. 1 – VERIFICATION OF KIRCHHOFF'S LAWS
 
-| **Name:** |  | **Reg. No.:** |  |
+| **Name:** |Cheranraj MD | **Reg. No.:** | 26013124 |
 |---|---|---|---|
-| **Date:** | | **Batch / Section:** | |
+| **Date:** |21|11|2026 | **Batch / Section:** |B.EEE |
 
 ---
 
