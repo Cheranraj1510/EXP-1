@@ -2,7 +2,6 @@
 
 | **Name:** |Cheranraj MD | **Reg. No.:** | 26013124 |
 |---|---|---|---|
-| **Date:** |21|11|2026 | **Batch / Section:** |B.EEE |
 
 ---
 
